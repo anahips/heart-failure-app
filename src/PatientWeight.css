@@ -1,0 +1,12 @@
+.PatientWeight {
+  margin-top: 20px;
+}
+
+.PatientWeight h5 {
+  margin-bottom: 10px;
+}
+
+.PatientWeight p {
+  font-size: 10px;
+  margin-top: 5px;
+}
